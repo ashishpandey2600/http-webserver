@@ -1,0 +1,27 @@
+{
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publication_year": 1960,
+    "ISBN": "978-0-06-112008-4",
+    "publisher": {
+      "name": "J.B. Lippincott & Co.",
+      "location": "Philadelphia, PA"
+    },
+    "price": 18.99,
+    "available_formats": ["Hardcover", "Paperback", "eBook", "Audiobook"],
+    "rating": 4.8,
+    "reviews": [
+      {
+        "reviewer": "John Doe",
+        "rating": 5,
+        "comment": "A timeless masterpiece."
+      },
+      {
+        "reviewer": "Jane Smith",
+        "rating": 4,
+        "comment": "Beautifully written, but a bit slow in parts."
+      }
+    ]
+  }
+  
